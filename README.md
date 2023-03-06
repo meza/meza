@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Remix](https://remix.run) projects & tools and utilities to make the lives of game server owners (mostly mine) simpler<br>🤝 I’m looking for help with anything really. Please feel free to submit a PR to any of the public repos, I appreciate all help<br>🌱 I’m currently honing my management skills and forever playing catch-up with front-end technologies<br>💬 Ask me about building and managing sustainable teams<br>⚡ Fun fact: 100% code coverage is just the bare minimum
+🔭 I’m currently working on [Remix](https://remix.run) projects and on tools to make the lives of game server owners (mostly mine) simpler<br>🤝 I’m looking for help with anything really. Please feel free to submit a PR to any of the public repos, I appreciate all help<br>🌱 I’m currently honing my management skills and forever playing catch-up with front-end technologies<br>💬 Ask me about building and managing sustainable teams<br>⚡ Fun fact: 100% code coverage is just the bare minimum
 
 
 ## 🌐 Socials:
