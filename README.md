@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on [Remix](https://remix.run) projects and on tools to make the lives of game server owners (mostly mine) simpler<br>🤝 I’m looking for help with anything really. Please feel free to submit a PR to any of the public repos, I appreciate all help<br>🌱 I’m currently honing my management skills and forever playing catch-up with front-end technologies<br>💬 Ask me about building and managing sustainable teams<br>⚡ Fun fact: 100% code coverage is just the bare minimum
 
-
+## 🎧Listening To  
+![Listening to](https://spotify-recently-played-readme.vercel.app/api?user=1155816097)
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vsbmeza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vsbmeza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vsbmeza) 
 
