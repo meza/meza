@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on a bunch of projects both around AI and on tools to make the lives of game server owners (mostly mine) simpler
-⛏️ There's also an ever growing list of Minecraft mods under my care.
-🤝 I’m looking for help with anything really. Please feel free to submit a PR to any of the public repos, I appreciate all help
-🌱 I’m currently honing my management skills and forever playing catch-up with front-end technologies
-💬 Ask me about building and managing sustainable teams<br>⚡ Fun fact: 100% code coverage is just the bare minimum
+🔭 I’m currently working on a bunch of projects both around AI and on tools to make the lives of game server owners (mostly mine) simpler<br>
+⛏️ There's also an ever growing list of Minecraft mods under my care.<br>
+🤝 I’m looking for help with anything really. Please feel free to submit a PR to any of the public repos, I appreciate all help<br>
+🌱 I’m currently honing my management skills and forever playing catch-up with front-end technologies<br>
+💬 Ask me about building and managing sustainable teams<br>⚡ Fun fact: 100% code coverage is just the bare minimum<br>
 
 ## 🎧Listening To  
 ![Listening to](https://spotify-recently-played-readme.vercel.app/api?user=1155816097)
